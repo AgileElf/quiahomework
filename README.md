@@ -1,1 +1,2 @@
 This project was created to help me complete some of my spanish homework. The first version would sign in using the selenium python package and enter all translations using the google translate api. Some words our homwork had were different translations than the google translate so I needed to create a list with all the translations and their english words to match up.
+Video of this program working: https://www.youtube.com/shorts/_8zlP0zGdQQ
